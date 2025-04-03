@@ -14,6 +14,11 @@ We introduce a stand-alone, decoder-only autoregressive model, **trained from sc
   <img src="./assets/architecture.png" width="100%"/>
 </details>
 
+<details open>
+  <summary>User Demo</summary>
+  <img src="https://github.com/user-attachments/assets/327e89c3-15d3-4329-91d3-e81616e18d16" width="100%"/>
+</details>
+
 
 
 ## 🔥 News
@@ -23,7 +28,7 @@ We introduce a stand-alone, decoder-only autoregressive model, **trained from sc
 ## 📝 Open-source Plan
  - [x] Text-to-Image / Image Pair Generation Inference & Checkpoints
  - [x] Finetuning code
- - [ ] Subject-Driven Generation / Image Editing Inference & Checkpoints
+ - [ ] All-In-One Inference & Checkpoints
  - [ ] Technical Report
 
 ## 📽️ Demo Examples
