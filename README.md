@@ -113,7 +113,7 @@ Please refer to  [TRAIN.md](TRAIN.md)
 
 ```
 @misc{lumina-mgpt-2.0,
-      title={Lumina-mGPT 2.0: Stand-Alone AutoRegressive Generative Image Modeling},
+      title={Lumina-mGPT 2.0: Stand-alone Autoregressive Image Modeling},
       author={AlphaVLLM Team},
       year={2025},
       url={https://github.com/Alpha-VLLM/Lumina-mGPT-2.0},
