@@ -32,7 +32,7 @@ We introduce a stand-alone, decoder-only autoregressive model, **trained from sc
 ## 📝 Open-source Plan
  - [x] Text-to-Image / Image Pair Generation Inference & Checkpoints
  - [x] Finetuning code
- - [ ] All-In-One Inference & Checkpoints
+ - [ ] All-in-One Inference & Checkpoints
  - [ ] Technical Report
 
 ## 📽️ Demo Examples
