@@ -10,13 +10,13 @@
 ## 📚 Introduction 
 We introduce a stand-alone, decoder-only autoregressive model, **trained from scratch**, that unifies a broad spectrum of image generation tasks, including **text-to-image generation, image pair generation, subject-driven generation, multi-turn image editing, controllable generation, and dense prediction**.
 <details open>
+  <summary>User Demo</summary>
+  <video src="https://github.com/user-attachments/assets/16ca823f-6664-47ca-865d-fa208d6130fa" width="100%"/></video>
+</details>
+   
+<details open>
   <summary>Architecture</summary>
   <img src="./assets/architecture.png" width="100%"/>
-</details>
-
-<details open>
-  <summary>User Demo</summary>
-  <img src="https://github.com/user-attachments/assets/327e89c3-15d3-4329-91d3-e81616e18d16" width="100%"/>
 </details>
 
 
