@@ -5,6 +5,10 @@
 
 <div align="center">
 <h1> Lumina-mGPT 2.0: Stand-Alone AutoRegressive Generative Image Modeling </h1>
+
+<b>¹Shanghai AI Laboratory, &nbsp;  ²Shanghai Innovation Institute </b>
+
+<b>³The Chinese University of Hong Kong, &nbsp;  ⁴Zhejiang University of Technology </b>
 </div>
 
 ## 📚 Introduction 
