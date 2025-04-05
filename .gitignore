@@ -176,3 +176,6 @@ cython_debug/
 
 # Model save
 lumina_mgpt/movqgan/270M
+
+# output
+lumina_mgpt/save_samples
