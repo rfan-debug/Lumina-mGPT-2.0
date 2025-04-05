@@ -20,7 +20,7 @@ from data.item_processor import var_center_crop
 class ItemProcessor(FlexARItemProcessor):
     def __init__(
         self,
-        tokenizer="/mnt/petrelfs/qinqi/mgpt2.0/Lumina-mGPT-2.0-main/lumina_mgpt/qwen2vl_72b",
+        tokenizer="Alpha-VLLM/Lumina-mGPT-2.0",
         conv_template=Conversation,
         target_size=512,
     ):
