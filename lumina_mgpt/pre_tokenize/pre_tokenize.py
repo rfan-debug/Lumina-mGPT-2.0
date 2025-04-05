@@ -31,20 +31,21 @@ class ItemProcessor(FlexARItemProcessor):
 
         # Add custom codes here to convert raw_item to the standard format
         # The standard format contains the "conversations" and "image" keys
+        # The data format contains the "image_path" and "prompt" keys
 
         # ********* <start>  Add your custom codes here *******
         if "image_path" in raw_item:
             image = Image.open(read_general(raw_item["image_path"]))
             img_path = raw_item["image_path"]
         else:
-            raise ValueError(f"No image path found in {raw_item}")
+            raise ValueError(f"No 'image_path' key found in {raw_item}, please replace it with your own image path key.")
         
         image = var_center_crop(image, crop_size_list=self.crop_size_list)
 
         if "prompt" in raw_item:
             caption = raw_item["prompt"]
         else:
-            raise ValueError(f"No prompt found in {raw_item}")
+            raise ValueError(f"No 'prompt' key found in {raw_item}, please replace it with your own prompt key.")
        
             
             
